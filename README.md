@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning DevOps
 <!--- - 💞️ I’m looking to collaborate on projects --->
 - 📫 How to reach me
-    -   [Linkedin](www.linkedin.com/in/panusharshit 'Let\'s Connect')
-    -   [ Email ](harshitpanu7900@gmail.com )
+    -   www.linkedin.com/in/panusharshit
+    -   harshitpanu7900@gmail.com
 <!--- - 😄 Pronouns: 
 - ⚡ Fun fact: ... --->
 
