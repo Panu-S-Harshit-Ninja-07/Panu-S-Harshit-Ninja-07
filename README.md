@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Panu-S-Harshit-Ninja-07
+- 👋 Hi, I’m Harshit Singh Panu --> @Panu-S-Harshit-Ninja-07 
 <!--- - 👀 I’m interested in ... --->
 - 🌱 I’m currently learning DevOps
 <!--- - 💞️ I’m looking to collaborate on projects --->
